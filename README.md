@@ -1,5 +1,7 @@
 # chatAPP
 
+Full-Stack Chat App with Auth & Emails
+
 ## 🧪 .env Setup
 
 ### Backend (`/backend`)
